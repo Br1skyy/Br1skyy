@@ -4,23 +4,26 @@
 
 <br>
 
-<table>
-    <tr>
-        <td valign="middle" align="center" width="55%">
-            <img src="https://komarev.com/ghpvc/?username=Br1skyy&style=for-the-badge&color=3a3a3a&label=views+since+2026" alt="views" />
-            <br>
-            <i>views since 2026-08-13</i>
-            <br>
-            <br>
-            <img alt="snake-evolution" width="500" align="center" src="https://raw.githubusercontent.com/Br1skyy/Br1skyy/output/snake-evolution.svg" />
-        </td>
-        <td valign="middle" align="center" width="45%">
-            <a href="https://github.com/Br1skyy"><img width="240" alt="br1skyy" src="assets/avatar.png" /></a>
-            <br>
-            <a href="https://github.com/Br1skyy">@Br1skyy</a> (github) <a href="mailto:thunderpop697@gmail.com">mail</a>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <table>
+        <tr>
+            <td valign="middle" align="center">
+                <img src="https://komarev.com/ghpvc/?username=Br1skyy&style=for-the-badge&color=3a3a3a&label=views+since+2026" alt="views" />
+                <br>
+                <i>views since 2026-08-13</i>
+            </td>
+            <td valign="middle" align="center">
+                <a href="https://github.com/Br1skyy"><img width="240" alt="br1skyy" src="assets/avatar.png" /></a>
+                <br>
+                <a href="https://github.com/Br1skyy">@Br1skyy</a> (github) <a href="mailto:thunderpop697@gmail.com">mail</a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <img alt="snake-evolution" width="500" src="https://raw.githubusercontent.com/Br1skyy/br1skyy-profile/output/snake-evolution.svg" />
+</div>
 
 <details open>
     <summary><b>toolbox</b></summary>

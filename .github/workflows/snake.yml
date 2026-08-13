@@ -1,0 +1,29 @@
+name: snake evolution
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Br1skyy
+          outputs: |
+            output/snake-evolution.svg?color_snake=ffffff&color_snake_dot=ffffff&color_dot_0=1f1f1f&color_dot_1=2d2d2d&color_dot_2=4a4a4a&color_dot_3=6f6f6f&color_dot_4=9a9a9a&color_background=0a0a0a
+
+      - name: commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --cached --quiet || git commit -m "chore: regenerate snake evolution"
+          git push
