@@ -36,8 +36,7 @@
       <img src="https://img.shields.io/badge/Fedora-262626?style=for-the-badge&logo=fedora&logoColor=c9c9c9" height="30" alt="fedora" />
       <img src="https://img.shields.io/badge/-C-262626?style=for-the-badge&logo=c&logoColor=c9c9c9" height="30" alt="c" />
       <img src="https://img.shields.io/badge/-Ghidra-262626?style=for-the-badge&logo=ghidra&logoColor=c9c9c9" height="30" alt="ghidra" />
-      <img src="https://img.shields.io/badge/-PS1%20Decomp-262626?style=for-the-badge&logoColor=c9c9c9" height="30" alt="ps1 decomp" />
-      <img src="https://img.shields.io/badge/-MIPS-262626?style=for-the-badge&logoColor=c9c9c9" height="30" alt="mips" />
+      <img src="https://img.shields.io/badge/-PlayStation-262626?style=for-the-badge&logo=playstation&logoColor=c9c9c9" height="30" alt="playstation" />
     </p>
 </details>
 
