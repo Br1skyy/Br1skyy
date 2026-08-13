@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-    <img alt="snake-evolution" width="500" src="https://raw.githubusercontent.com/Br1skyy/br1skyy-profile/output/snake-evolution.svg" />
+    <img alt="snake-evolution" width="500" src="https://raw.githubusercontent.com/Br1skyy/Br1skyy/output/snake-evolution.svg" />
 </div>
 
 <details open>
