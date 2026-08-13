@@ -10,7 +10,7 @@
             <td valign="middle" align="center">
                 <a href="https://github.com/Br1skyy"><img width="240" alt="br1skyy" src="assets/avatar.png" /></a>
                 <br>
-                <a href="https://github.com/Br1skyy">@Br1skyy</a> (github) <a href="mailto:thunderpop697@gmail.com">mail</a>
+                <a href="https://github.com/Br1skyy">@Br1skyy</a> (github)
             </td>
         </tr>
     </table>
