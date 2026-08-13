@@ -17,16 +17,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Br1skyy
-          color_snake: '#ffffff'
-          color_snake_dot: '#ffffff'
-          color_dot_0: '#1f1f1f'
-          color_dot_1: '#2d2d2d'
-          color_dot_2: '#4a4a4a'
-          color_dot_3: '#6f6f6f'
-          color_dot_4: '#9a9a9a'
-          color_background: '#0a0a0a'
           outputs: |
-            output/snake-evolution.svg
+            output/snake-evolution.svg?color_background=0a0a0a&color_dot_border=0a0a0a&color_dots=1f1f1f,2d2d2d,4a4a4a,6f6f6f,9a9a9a&color_snake=ffffff
 
       - name: commit & push
         run: |
