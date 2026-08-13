@@ -22,10 +22,6 @@
     <i>views since 2026-08-13</i>
 </div>
 
-<div align="center">
-    <img alt="snake-evolution" width="500" src="https://raw.githubusercontent.com/Br1skyy/Br1skyy/main/output/snake-evolution.svg" />
-</div>
-
 <details open>
     <summary><b>toolbox</b></summary>
     <p align="center">
@@ -38,6 +34,10 @@
       <img src="https://img.shields.io/badge/-Docker-262626?style=for-the-badge&logo=docker&logoColor=c9c9c9" height="30" alt="docker" />
       <img src="https://img.shields.io/badge/-GitHub%20Actions-262626?style=for-the-badge&logo=githubactions&logoColor=c9c9c9" height="30" alt="github actions" />
       <img src="https://img.shields.io/badge/Fedora-262626?style=for-the-badge&logo=fedora&logoColor=c9c9c9" height="30" alt="fedora" />
+      <img src="https://img.shields.io/badge/-C-262626?style=for-the-badge&logo=c&logoColor=c9c9c9" height="30" alt="c" />
+      <img src="https://img.shields.io/badge/-Ghidra-262626?style=for-the-badge&logo=ghidra&logoColor=c9c9c9" height="30" alt="ghidra" />
+      <img src="https://img.shields.io/badge/-PS1%20Decomp-262626?style=for-the-badge&logoColor=c9c9c9" height="30" alt="ps1 decomp" />
+      <img src="https://img.shields.io/badge/-MIPS-262626?style=for-the-badge&logoColor=c9c9c9" height="30" alt="mips" />
     </p>
 </details>
 
@@ -52,12 +52,11 @@
 
 <details>
     <summary><b>fav repos</b></summary>
-    <p align="center">
-        <br>
-        <a href="https://github.com/torvalds/linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&border_color=262626" width="400rem" align="left" /></a>
-        <a href="https://github.com/lameguy64/mkpsxiso"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lameguy64&repo=mkpsxiso&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&border_color=262626" width="400rem" align="right" /></a>
-        <a href="https://github.com/sindresorhus/awesome"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sindresorhus&repo=awesome&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&border_color=262626" width="400rem" align="left" /></a>
-    </p>
+    <ul align="left">
+        <li><a href="https://github.com/torvalds/linux">torvalds/linux</a> — the kernel</li>
+        <li><a href="https://github.com/lameguy64/mkpsxiso">lameguy64/mkpsxiso</a> — PSX CD image builder</li>
+        <li><a href="https://github.com/sindresorhus/awesome">sindresorhus/awesome</a> — curated list of lists</li>
+    </ul>
 </details>
 <br clear="all">
 <div align="center">
