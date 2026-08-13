@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-    <img alt="snake-evolution" width="500" src="https://raw.githubusercontent.com/Br1skyy/Br1skyy/output/snake-evolution.svg" />
+    <img alt="snake-evolution" width="500" src="https://raw.githubusercontent.com/Br1skyy/Br1skyy/main/output/snake-evolution.svg" />
 </div>
 
 <details open>
@@ -54,18 +54,12 @@
     <summary><b>fav repos</b></summary>
     <p align="center">
         <br>
-        <a href="https://github.com/Br1skyy/FeetBrowser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Br1skyy&repo=FeetBrowser&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&border_color=262626" width="400rem" align="left" /></a>
-        <a href="https://github.com/Br1skyy/next-thing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Br1skyy&repo=next-thing&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&border_color=262626" width="400rem" align="right" /></a>
-<!-- 
-<a href="https://github.com/Br1skyy/another-thing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Br1skyy&repo=another-thing&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&border_color=262626" width="400rem" align="left" /></a>
-<a href="https://github.com/Br1skyy/repo-four"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Br1skyy&repo=repo-four&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&border_color=262626" width="400rem" align="left" /></a>
--->
+        <a href="https://github.com/torvalds/linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&border_color=262626" width="400rem" align="left" /></a>
+        <a href="https://github.com/lameguy64/mkpsxiso"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lameguy64&repo=mkpsxiso&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&border_color=262626" width="400rem" align="right" /></a>
+        <a href="https://github.com/sindresorhus/awesome"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sindresorhus&repo=awesome&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&border_color=262626" width="400rem" align="left" /></a>
     </p>
 </details>
 <br clear="all">
 <div align="center">
     <img src="assets/flourish.svg" width="100%" alt="floral divider" />
-    <br>
-    <br>
-    *wilted but still growing — [Br1skyy](https://github.com/Br1skyy)*
 </div>
