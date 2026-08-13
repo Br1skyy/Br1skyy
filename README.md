@@ -15,7 +15,7 @@
             <img alt="snake-evolution" width="500" align="center" src="https://raw.githubusercontent.com/Br1skyy/Br1skyy/output/snake-evolution.svg" />
         </td>
         <td valign="middle" align="center" width="45%">
-            <a href="https://github.com/Br1skyy"><img width="320" alt="still growing between the petals" src="assets/portrait.png" /></a>
+            <a href="https://github.com/Br1skyy"><img width="240" alt="br1skyy" src="assets/avatar.png" /></a>
             <br>
             <a href="https://github.com/Br1skyy">@Br1skyy</a> (github) <a href="mailto:thunderpop697@gmail.com">mail</a>
         </td>
