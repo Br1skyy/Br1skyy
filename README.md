@@ -27,16 +27,15 @@
     <p align="center">
       <img src="https://img.shields.io/badge/-Python-262626?style=for-the-badge&logo=python&logoColor=c9c9c9" height="30" alt="python" />
       <img src="https://img.shields.io/badge/-JavaScript-262626?style=for-the-badge&logo=javascript&logoColor=c9c9c9" height="30" alt="javascript" />
-      <img src="https://img.shields.io/badge/-HTML5-262626?style=for-the-badge&logo=html5&logoColor=c9c9c9" height="30" alt="html5" />
-      <img src="https://img.shields.io/badge/-CSS3-262626?style=for-the-badge&logo=css3&logoColor=c9c9c9" height="30" alt="css3" />
       <img src="https://img.shields.io/badge/-Bash-262626?style=for-the-badge&logo=gnubash&logoColor=c9c9c9" height="30" alt="bash" />
       <img src="https://img.shields.io/badge/-Git-262626?style=for-the-badge&logo=git&logoColor=c9c9c9" height="30" alt="git" />
-      <img src="https://img.shields.io/badge/-Docker-262626?style=for-the-badge&logo=docker&logoColor=c9c9c9" height="30" alt="docker" />
+      <img src="https://img.shields.io/badge/-C-262626?style=for-the-badge&logo=c&logoColor=c9c9c9" height="30" alt="c" />
+      <img src="https://img.shields.io/badge/-Assembly-262626?style=for-the-badge&logoColor=c9c9c9" height="30" alt="assembly" />
+      <img src="https://img.shields.io/badge/-Rust-262626?style=for-the-badge&logo=rust&logoColor=c9c9c9" height="30" alt="rust" />
+      <img src="https://img.shields.io/badge/-Tauri-262626?style=for-the-badge&logo=tauri&logoColor=c9c9c9" height="30" alt="tauri" />
       <img src="https://img.shields.io/badge/-GitHub%20Actions-262626?style=for-the-badge&logo=githubactions&logoColor=c9c9c9" height="30" alt="github actions" />
       <img src="https://img.shields.io/badge/Fedora-262626?style=for-the-badge&logo=fedora&logoColor=c9c9c9" height="30" alt="fedora" />
-      <img src="https://img.shields.io/badge/-C-262626?style=for-the-badge&logo=c&logoColor=c9c9c9" height="30" alt="c" />
       <img src="https://img.shields.io/badge/-Ghidra-262626?style=for-the-badge&logo=ghidra&logoColor=c9c9c9" height="30" alt="ghidra" />
-      <img src="https://img.shields.io/badge/-PlayStation-262626?style=for-the-badge&logo=playstation&logoColor=c9c9c9" height="30" alt="playstation" />
     </p>
 </details>
 
@@ -56,6 +55,13 @@
         <li><a href="https://github.com/lameguy64/mkpsxiso">lameguy64/mkpsxiso</a> — PSX CD image builder</li>
         <li><a href="https://github.com/sindresorhus/awesome">sindresorhus/awesome</a> — curated list of lists</li>
     </ul>
+</details>
+
+<details>
+    <summary><b>contact</b></summary>
+    <p align="center">
+        discord: <code>br1skyy_</code>
+    </p>
 </details>
 <br clear="all">
 <div align="center">
