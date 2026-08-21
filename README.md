@@ -8,7 +8,7 @@
     <table>
         <tr>
             <td valign="middle" align="center">
-                <a href="https://github.com/Br1skyy"><img width="240" alt="br1skyy" src="assets/avatar.png" /></a>
+                <a href="https://github.com/Br1skyy"><img width="240" alt="br1skyy" src="assets/avatar-2026.png" /></a>
                 <br>
                 <a href="https://github.com/Br1skyy">@Br1skyy</a> (github)
             </td>
